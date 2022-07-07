@@ -5,7 +5,6 @@ Link:https://portfolio-hari.netlify.app/
 
 
 
-Link:https://coderhariexpert.github.io/Social-Media/
 
 -------------------------------------------------------------Responsive Design---------------------------------------------------------------------------
 
